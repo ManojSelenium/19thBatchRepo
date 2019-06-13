@@ -3,3 +3,5 @@ Hi This is Machine 1
 Hi Machine 1 Second change
 
 Hi this is machine 2 first change
+
+Machine 1 Third commit
